@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Android</string>
+    <string name="message1">New game</string>
+    <string name="message2">Info</string>
+    <string name="message3">Music</string>
+    <string name="message4">Video</string>
+    <string name="message5">Coll</string>
+</resources>
